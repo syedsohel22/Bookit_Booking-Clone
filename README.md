@@ -53,7 +53,7 @@
 
 <hr>
 
-*Booking Details page
+* Booking Details page
 * ![image](https://i.ibb.co/Y0DgqyS/bookit-details-page.png)
 
 <hr>
