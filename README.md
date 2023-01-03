@@ -1,9 +1,9 @@
 
 
-# Bookit.com [Diployed Link](https://neon-salmiakki-934ec6.netlify.app/)
+# Booking.com [Diployed Link](https://neon-salmiakki-934ec6.netlify.app/)
 
 
-<h3>Booking.com which is a Dutch online travel agency for
+<h3>Booking.com is a Dutch online travel agency for
 lodging reservations & other travel products, and a subsidiary of
 Booking Holding.</h3>
 
