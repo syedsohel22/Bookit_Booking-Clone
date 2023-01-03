@@ -1,8 +1,6 @@
-# gentle-spark-3788
 
 
-
-## Introduction to our project(https://neon-salmiakki-934ec6.netlify.app/):
+# Bookit.com [Diployed Link](https://neon-salmiakki-934ec6.netlify.app/)
 
 
 <h3>Booking.com which is a Dutch online travel agency for
@@ -10,8 +8,13 @@ lodging reservations & other travel products, and a subsidiary of
 Booking Holding.</h3>
 
 
-# Tech Stacks Used:
-# ![image](https://miro.medium.com/max/1400/1*2xsLeLNqKwIoGOQlw8O6Ug.png)
+## Tech Stacks Used:
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>BootStrap</li>
+</ul>
 
 <hr>
 
