@@ -5,9 +5,9 @@
 ## Introduction to our project(https://neon-salmiakki-934ec6.netlify.app/):
 
 
-#Booking.com which is a Dutch online travel agency for
+<h3>Booking.com which is a Dutch online travel agency for
 lodging reservations & other travel products, and a subsidiary of
-Booking Holding.
+Booking Holding.</h3>
 
 
 # Tech Stacks Used:
