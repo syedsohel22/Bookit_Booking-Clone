@@ -5,7 +5,9 @@
 ## Introduction to our project(https://neon-salmiakki-934ec6.netlify.app/):
 
 
-# BOOKit.com allows businesses to reach more clients and process more orders.Timely notifications. Minimize downtime by automatically informing your customers and employees about upcoming appointments, cancellations, and rescheduling. Convenient payment options.
+#Booking.com which is a Dutch online travel agency for
+lodging reservations & other travel products, and a subsidiary of
+Booking Holding.
 
 
 # Tech Stacks Used:
