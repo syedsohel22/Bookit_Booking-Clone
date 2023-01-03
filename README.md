@@ -16,6 +16,16 @@ Booking Holding.</h3>
 <li>BootStrap</li>
 </ul>
 
+## Features:-
+<ul>
+  <li>Authentication</li>
+   <li>Admin dunctionalities</li>
+   <li>Search suggetions</li>
+   <li>Add to cart</li>
+   <li>checkout feature</li>
+</ul>
+
+
 <hr>
 
 * HomePage:
