@@ -7,6 +7,16 @@
 lodging reservations & other travel products, and a subsidiary of
 Booking Holding.</h3>
 
+<h4>This is a collaborative project & team members are:-</h4>
+<ul>
+  <li>Sapna Sharma (Team lead)</li>
+   <li>Harish Pampana</li>
+   <li>Shubham Kumar</li>
+   <li>Avinash Kalmegh</li>
+   <li>Sohel Syed</li>
+</ul>
+
+
 
 ## Tech Stacks Used:
 <ul>
