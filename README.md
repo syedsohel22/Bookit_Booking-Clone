@@ -1,6 +1,6 @@
 
 
-# Booking.com [Diployed Link](https://regal-parfait-c2e5ff.netlify.app/)
+# Bookit [Diployed Link](https://regal-parfait-c2e5ff.netlify.app/)
 
 
 <h3>Booking.com is a Dutch online travel agency for
